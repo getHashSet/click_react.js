@@ -1,0 +1,19 @@
+{
+  "name": "click_react",
+  "version": "1.0.0",
+  "description": "React state change and hooks using user inputs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/getHashSet/click_react.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/getHashSet/click_react.js/issues"
+  },
+  "homepage": "https://github.com/getHashSet/click_react.js#readme"
+}
